@@ -10,4 +10,4 @@ What we did:
 - Market, Segment, Category and Region Performance
 - Seasonality Factors in Sales
 
-Made a report of the analysis named as "TakeALeap_NITTrichy.pdf"
+Made a report ("TakeALeap_NITTrichy.pdf") of the analysis. 
