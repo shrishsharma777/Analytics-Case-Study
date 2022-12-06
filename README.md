@@ -1,4 +1,4 @@
-# analytics
+# Analytics Case Study
 Participated in analytics case study competition hosted by IIT Kanpur named as ACCS: Nationwide Analytics Case Study Competition
 Prabandhan'2021 - The Flagship Management Conclave of IIT Kanpur
 Department of Industrial and Management Engineering (DIME), Indian Institute of Technology (IIT), Kanpur
